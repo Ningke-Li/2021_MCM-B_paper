@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Background}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Our Works}{2}{}%
+\contentsline {section}{\numberline {2}Assumptions and Notations}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Assumptions}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Notations}{3}{}%
+\contentsline {section}{\numberline {3}Optimal Combination of Drones(Question 1)}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Environment Modeling}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Determine Details of Algorithm }{5}{}%
+\contentsline {subsection}{\numberline {3.3}Determining the Price Function}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Determining the Objectives of the Model}{8}{}%
+\contentsline {subsection}{\numberline {3.5}Algorithm Flow of Artificial Fish Swarm Planning}{8}{}%
+\contentsline {subsection}{\numberline {3.6}Model Simulation and Analysis}{9}{}%
+\contentsline {section}{\numberline {4}Forecast of Future Situation(Question 2)}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Data Description and Model Adjustment}{11}{}%
+\contentsline {subsection}{\numberline {4.2}Model Simulation and Analysis}{11}{}%
+\contentsline {section}{\numberline {5}Repeater Location Optimization(Question 3)}{12}{}%
+\contentsline {subsection}{\numberline {5.1}Environment Model Adjusting}{12}{}%
+\contentsline {subsection}{\numberline {5.2}Model Optimization}{13}{}%
+\contentsline {subsection}{\numberline {5.3}Model Stimulation and Analysis}{14}{}%
+\contentsline {section}{\numberline {6}Strengths, Weaknesses and Future Discussion}{14}{}%
+\contentsline {subsection}{\numberline {6.1}Strengths}{15}{}%
+\contentsline {subsection}{\numberline {6.2}Weaknesses}{16}{}%
+\contentsline {subsection}{\numberline {6.3}Future Discussion}{16}{}%
+\contentsline {section}{\numberline {7}Sensitivity Analysis}{16}{}%
+\contentsline {section}{\numberline {8}Conclusion}{17}{}%
+\contentsline {section}{Annotated Budget Request}{19}{}%
+\contentsline {section}{References}{21}{}%
+\contentsline {section}{Appendices for Code and Data}{22}{}%
